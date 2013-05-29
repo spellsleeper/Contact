@@ -1,0 +1,17 @@
+######Table##########################################################
+#####kontakt                #ort                #look               #
+Field################################################################
+    #id IDENTITY PK         #id IDENTITY PK     #id IDENTITY PK     #
+    #name VARCHAR(50)       #name VARCHAR(50)   #name VARCHAR(80)   #
+    #vorname VARCHAR(50)    #plz VARCHAR(10)    #                   #
+    #titel VARCHAR(50)      #                   #                   #
+    #kuerzel VARCHAR(50)    #                   #                   #
+    #mail1 VARCHAR(50)      #                   #                   #
+    #mail2 VARCHAR(50)      #                   #                   #
+    #tel VARCHAR(30)        #                   #                   #
+    #handy VARCHAR(30)      #                   #                   #
+    #privatTel VARCHAR(30)  #                   #                   #
+    #icq VARCHAR(50)        #                   #                   #
+    #ortid INT FK           #                   #                   #
+    #adresse VARCHAR(50)    #                   #                   #
+    ################################################################# 

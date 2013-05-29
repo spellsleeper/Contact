@@ -1,0 +1,3 @@
+29.05	Anzeigen im 'ExchangingPanel' und abändern im 'EditPanel' Funktionieren.
+		Es ist darauf zu achten das PLZ und Ortsnamen immer getrennt werden.
+		Das 'OverviewPanel' funktioniert.
